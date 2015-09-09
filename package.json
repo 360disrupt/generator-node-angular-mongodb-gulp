@@ -1,0 +1,33 @@
+{
+  "name": "generator-node-angular-mongodb-gulp",
+  "version": "1.0.0",
+  "description": "A generator to generate a mean app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/360disrupt/generator-node-angular-mongodb-gulp.git"
+  },
+  "keywords": [
+    "yeoman",
+    "yeoman-generator",
+    "angular",
+    "node",
+    "mongodb",
+    "gulp"
+  ],
+  "files": [
+    "src"
+  ],
+  "author": "Andreas Geissinger, Alen Palamar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/360disrupt/generator-node-angular-mongodb-gulp/issues"
+  },
+  "homepage": "https://github.com/360disrupt/generator-node-angular-mongodb-gulp",
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
+}
